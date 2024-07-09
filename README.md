@@ -7,7 +7,6 @@
 
 Your task is to implement `TicTacToe` class
 
-#### Methods:
 
 ##### `getCurrentPlayerSymbol()`
 should return `x` or `o`
